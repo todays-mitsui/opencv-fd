@@ -1,0 +1,26 @@
+.container {
+  padding: 0 20px 80px;
+
+  color: #333;
+}
+
+table {
+  border-collapse: collapse;
+  border-top: 1px solid #666;
+  border-left: 1px solid #666;
+}
+
+th {
+  background-color: #f0f0f0;
+}
+
+th, td {
+  padding: 5px;
+
+  border-right: 1px solid #666;
+  border-bottom: 1px solid #666;
+}
+
+table img {
+  width: 300px;
+}

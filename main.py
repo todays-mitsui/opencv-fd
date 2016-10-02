@@ -4,7 +4,7 @@ import cv2
 
 
 SCALE_FACTOR = 1.11
-MIN_NEIGHBORS = 5
+MIN_NEIGHBORS = 3
 MIN_SIZE = (30, 30)
 
 
